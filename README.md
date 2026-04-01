@@ -1,3 +1,7 @@
+
+<!-- GitHub README refresh -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1"/>
+
 <!--  Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Soyab%20Chhuvara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -24,7 +28,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&repeat=true&width=600&height=80&lines=React+%7C+Next.js+Developer+💻;MERN+Stack+Developer+🔥;Founder+%26+CEO+of+SAF+TECH+🚀;Building+the+Future+of+Web+🌐" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=00E6E6&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Next.js+Developer+🚀;MERN+Stack+Developer+🔥;Founder+%26+CEO+of+SAF+TECH;Building+Modern+Web+Apps+💻" />
   </a>
 </p>
 
@@ -125,6 +129,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-ssc&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
+---
+
+
+---
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-ssc/mr-ssc/output/snake.svg" alt="snake animation"/>
+</p>
 ---
 
 ## 🤝 Connect With Me

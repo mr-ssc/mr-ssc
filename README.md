@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1"/>
 
 
-
 <!--  Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Soyab%20Chhuvara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>

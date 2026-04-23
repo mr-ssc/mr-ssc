@@ -123,7 +123,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-ssc&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-ssc&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---

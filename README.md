@@ -32,9 +32,7 @@
 ## 🚀 Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-Developer-00e6e6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-Developer-58a6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Founder-SAF%20TECH-ff6b6b?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e6e6,100:58a6ff&height=80&section=header&text=Next.js%20Developer%20🚀&fontSize=25&fontColor=ffffff"/>
 </p>
 
 ---

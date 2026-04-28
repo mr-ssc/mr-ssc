@@ -18,7 +18,8 @@
 ---
 <!-- 🔥 HEADER - Visible Dark Gradient -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x200/0f2027/ffffff?text=Soyab+Chhuvara+-+Founder+%26+CEO+of+SAF+TECH" width="100%"/>
+  <img src="https://img.shields.io/badge/Soyab%20Chhuvara-Next.js%20Developer-00e6e6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Founder-SAF%20TECH-58a6ff?style=for-the-badge"/>
 </p>
 
 <!-- Visitor + Followers -->

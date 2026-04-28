@@ -18,7 +18,7 @@
 ---
 <!-- 🔥 HEADER - Visible Dark Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,26,30&height=200&section=header&text=Soyab%20Chhuvara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Founder%20%26%20CEO%20of%20SAF%20TECH%20🚀&descSize=18&descColor=58a6ff&descAlignY=52" width="100%"/>
+  <img src="https://via.placeholder.com/1200x200/0f2027/ffffff?text=Soyab+Chhuvara+-+Founder+%26+CEO+of+SAF+TECH" width="100%"/>
 </p>
 
 <!-- Visitor + Followers -->

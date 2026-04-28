@@ -32,9 +32,9 @@
 ## 🚀 Developer
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=00E6E6&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Next.js+Developer+🚀;MERN+Stack+Developer+🔥;Founder+%26+CEO+of+SAF+TECH;Building+Modern+Web+Apps+💻" />
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-Developer-00e6e6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-Developer-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder-SAF%20TECH-ff6b6b?style=for-the-badge" />
 </p>
 
 ---

@@ -29,7 +29,6 @@
 
 ---
 
-## 🚀 Developer
 
 ## 🚀 Developer
 

@@ -31,9 +31,11 @@
 
 ## 🚀 Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e6e6,100:58a6ff&height=80&section=header&text=Next.js%20Developer%20🚀&fontSize=25&fontColor=ffffff"/>
-</p>
+## 🚀 Developer
+
+<h3 align="center">
+  🚀 Next.js Developer | 🔥 MERN Stack Developer | 💻 Founder of SAF TECH
+</h3>
 
 ---
 

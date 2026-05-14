@@ -191,6 +191,106 @@
 
 > 🧵 Elegant Traditional Fashion Collection
 
+</td>---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 SAF TECH  
+<a href="https://www.saftech.in" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Visit_Now-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Modern IT Solutions & Web Development Platform
+
+</td>
+
+<td width="50%">
+
+## 🪪 SAF ID  
+<a href="https://saf-id.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/⚡_Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Smart Digital ID Card Management System
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🍔 Testy Food  
+<a href="https://testy-food-rho.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🍕_Explore-ff6b6b?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Fast & Stylish Online Food Ordering UI
+
+</td>
+
+<td width="50%">
+
+## 🛍️ KVS Store  
+<a href="https://www.kvsstores.com" target="_blank">
+  <img src="https://img.shields.io/badge/🛒_Shop_Now-ffd700?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Modern E-Commerce Shopping Experience
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🪖 Army Shop  
+<a href="https://armyshop.in" target="_blank">
+  <img src="https://img.shields.io/badge/🪖_Visit_Store-2ecc71?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Military & Tactical Products Store
+
+</td>
+
+<td width="50%">
+
+## 💄 Glow Getters  
+<a href="https://glow-getters-orcin.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/💅_Live_Website-ff69b4?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Beauty & Cosmetics Brand Website
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤝 SAF NGO  
+<a href="https://saf-ngo.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/❤️_Support_Now-9b59b6?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> NGO Platform For Helping Communities
+
+</td>
+
+<td width="50%">
+
+## 👗 Traditional Clothing  
+<a href="https://www.traditionalclothing.in" target="_blank">
+  <img src="https://img.shields.io/badge/👗_Explore_Collection-e67e22?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+> Traditional Fashion & Clothing Brand
+
 </td>
 </tr>
 
@@ -199,17 +299,78 @@
 
 ## ✈️ SAF Tours  
 <a href="https://saf-tours.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌍_Book_Now-1abc9c?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍_Travel_With_Us-1abc9c?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-<br/><br/>
-
-> ✈️ Travel & Tour Booking Platform
+> Tours & Travel Booking Platform
 
 </td>
 </tr>
-
 </table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-ssc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ssc&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mr-ssc&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,firebase,tailwind,git,github,vscode" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mr-ssc">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ✨ Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=mr-ssc&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# 💫 Quote
+
+<div align="center">
+
+### 🚀 *"Turning Ideas Into Powerful Digital Experiences."*
 
 </div>
 

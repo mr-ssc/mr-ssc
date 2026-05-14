@@ -75,54 +75,201 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,postman&theme=dark" />
 </p>
-
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-### 🌐 SAF TECH
-[![Live](https://img.shields.io/badge/▶_Live_Preview-00e6e6?style=for-the-badge&logo=vercel&logoColor=black)](https://www.saftech.in)
+<table>
+<tr>
+<td width="50%">
 
-### 🪪 SAF ID
-[![Live](https://img.shields.io/badge/▶_Live_Preview-58a6ff?style=for-the-badge&logo=vercel&logoColor=black)](https://saf-id.vercel.app)
+## 🌐 SAF TECH  
+<a href="https://www.saftech.in" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Visit_Website-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
 
-### 🍔 Testy Food
-[![Live](https://img.shields.io/badge/▶_Live_Preview-ff6b6b?style=for-the-badge&logo=vercel&logoColor=black)](https://testy-food-rho.vercel.app)
+<br/><br/>
 
-### 🛍️ KVS Store
-[![Live](https://img.shields.io/badge/▶_Live_Preview-ffd700?style=for-the-badge&logo=vercel&logoColor=black)](https://www.kvsstores.com)
+> ⚡ Modern IT Solutions & Software Development Company
 
-### 🪖 Army Shop
-[![Live](https://img.shields.io/badge/▶_Live_Preview-2ecc71?style=for-the-badge&logo=vercel&logoColor=black)](https://armyshop.in)
+</td>
 
-### 💄 Glow Getters
-[![Live](https://img.shields.io/badge/▶_Live_Preview-ff69b4?style=for-the-badge&logo=vercel&logoColor=black)](https://glow-getters-orcin.vercel.app)
+<td width="50%">
 
-### 🤝 SAF NGO
-[![Live](https://img.shields.io/badge/▶_Live_Preview-9b59b6?style=for-the-badge&logo=vercel&logoColor=black)](https://saf-ngo.vercel.app)
+## 🪪 SAF ID  
+<a href="https://saf-id.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Project-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-### 👗 Traditional Clothing
-[![Live](https://img.shields.io/badge/▶_Live_Preview-e67e22?style=for-the-badge&logo=vercel&logoColor=black)](https://www.traditionalclothing.in)
+<br/><br/>
 
-### ✈️ SAF Tours
-[![Live](https://img.shields.io/badge/▶_Live_Preview-1abc9c?style=for-the-badge&logo=vercel&logoColor=black)](https://saf-tours.vercel.app)
+> 🛡️ Smart Digital ID Card Management System
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🍔 Testy Food  
+<a href="https://testy-food-rho.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🍕_View_Project-ff6b6b?style=for-the-badge&logo=swiggy&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 🍟 Fast & Stylish Online Food Ordering Platform
+
+</td>
+
+<td width="50%">
+
+## 🛍️ KVS Store  
+<a href="https://www.kvsstores.com" target="_blank">
+  <img src="https://img.shields.io/badge/🛒_Shop_Now-ffd700?style=for-the-badge&logo=shopify&logoColor=black" />
+</a>
+
+<br/><br/>
+
+> 🛒 Powerful Ecommerce Shopping Experience
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🪖 Army Shop  
+<a href="https://armyshop.in" target="_blank">
+  <img src="https://img.shields.io/badge/🪖_Explore-2ecc71?style=for-the-badge&logo=firebase&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 🇮🇳 Military Style Products & Accessories Store
+
+</td>
+
+<td width="50%">
+
+## 💄 Glow Getters  
+<a href="https://glow-getters-orcin.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/✨_Live_Website-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💅 Beauty & Cosmetic Brand Website
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤝 SAF NGO  
+<a href="https://saf-ngo.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/❤️_Visit_NGO-9b59b6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 🌍 Helping People Through Digital Initiatives
+
+</td>
+
+<td width="50%">
+
+## 👗 Traditional Clothing  
+<a href="https://www.traditionalclothing.in" target="_blank">
+  <img src="https://img.shields.io/badge/👗_Explore_Store-e67e22?style=for-the-badge&logo=shopify&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 🧵 Elegant Traditional Fashion Collection
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+## ✈️ SAF Tours  
+<a href="https://saf-tours.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌍_Book_Now-1abc9c?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> ✈️ Travel & Tour Booking Platform
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-ssc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ssc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-ssc&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-ssc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ssc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mr-ssc&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,firebase,tailwind,git,github,vscode" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mr-ssc">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ✨ Developer Quote
+
+<div align="center">
+
+### 💻 *"Turning ideas into powerful digital experiences."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+</div>
 
 ---
 
